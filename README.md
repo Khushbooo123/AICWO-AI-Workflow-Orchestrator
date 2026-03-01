@@ -14,11 +14,7 @@ Notion-based digital playbooks
 
 Zapier automation
 
-🏗 System Architecture
-
-📊 Dashboard Preview
-
-🧠 Key Features
+**🧠 Key Features**
 
 Automated SLA breach detection
 
