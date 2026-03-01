@@ -1,6 +1,6 @@
-🚀 AI-Powered Cross-Department Workflow Orchestrator (AICWO)
+**🚀 AI-Powered Cross-Department Workflow Orchestrator (AICWO)**
 
-📌 Project Overview
+**📌 Project Overview**
 
 AICWO is an AI-driven workflow intelligence system designed to eliminate cross-department bottlenecks using:
 
@@ -32,7 +32,7 @@ Escalation funnel analytics
 
 Executive KPI dashboard
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 | Layer         | Tool                       |
 | ------------- | -------------------------- |
 | Data          | Google Sheets / Excel      |
@@ -44,7 +44,7 @@ Executive KPI dashboard
 | Hosting       | GitHub                     |
 
 
-📈 Business Impact (Simulated)
+**📈 Business Impact (Simulated)**
 
 38% Reduction in SLA Breaches
 
@@ -54,7 +54,7 @@ Executive KPI dashboard
 
 Centralized Operational Visibility
 
-🧩 Repository Structure
+**🧩 Repository Structure**
 
 datasets/       → Raw & structured workflow data  
 sql/            → Schema & analytics queries  
@@ -63,7 +63,7 @@ dashboards/     → Executive dashboard
 notion_case_study/ → Project documentation  
 screenshots/    → System visuals 
 
-🎯 Future Enhancements
+**🎯 Future Enhancements**
 
 Predictive SLA detection
 
