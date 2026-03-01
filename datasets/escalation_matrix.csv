@@ -1,0 +1,4 @@
+severity,trigger_condition,escalate_to,action
+High,SLA > 24 hrs,Operations Head,Email + Slack
+Medium,Delay > 12 hrs,Team Lead,Slack Alert
+Low,Delay > 6 hrs,Supervisor,Email Notification

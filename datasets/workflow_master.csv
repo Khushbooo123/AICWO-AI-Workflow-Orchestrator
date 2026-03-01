@@ -1,1 +1,6 @@
-
+workflow_id,department_from,department_to,task_name,SLA_hours,priority,automation_flag
+W001,Sales,Operations,Client Handover,24,High,Yes
+W002,HR,IT,Laptop Provision,48,Medium,Yes
+W003,Marketing,Finance,Budget Approval,72,High,No
+W004,Finance,Legal,Vendor Contract Review,36,Medium,No
+W005,Operations,Support,Ticket Resolution,12,Low,Yes

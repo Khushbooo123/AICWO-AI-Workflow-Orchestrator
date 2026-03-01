@@ -1,0 +1,6 @@
+department,avg_completion_time_hrs,pending_tasks,sla_breach_rate_percent
+Sales,18,4,5
+Operations,30,10,18
+Finance,28,6,12
+IT,35,5,15
+Support,10,2,3
